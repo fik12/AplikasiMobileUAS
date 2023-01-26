@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Go-Laundry</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_message">Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="recommended">Rekomendasi</string>
+    <string name="premium_wash">Premium Wash</string>
+    <string name="dry_cleaning">Dry Cleaning</string>
+    <string name="cuci_basah"><![CDATA[Cuci Basah]]></string>
+    <string name="setrika">Setrika</string>
+    <string name="pilih_layanan">Pilih Layanan</string>
+
+
+    //Headings
+    <string name="heading_one">Siapkan Baju Kotormu</string>
+    <string name="heading_two">Tidak Perlu Mencuci Sendiri</string>
+    <string name="heading_three">Dapatkan Pelayanan Terbaik</string>
+    <string name="heading_fourth">Kami Siap Melayani Anda Dengan Sepenuh Hati</string>
+
+    //Description
+    <string name="desc_one">Kami siap memberikan pelayanan terbaik kepada kamu. Kepuasan pelanggan adalah yang paling utama.</string>
+    <string name="desc_two">Dengan Go-Laundry, tersedia berbagai macam fasilitas terbaik yang akan mencuci pakaian kamu.</string>
+    <string name="desc_three">Nikmati pelayanan terbaik dari kami, yang tidak akan pernah kamu temukan di tempat lain.</string>
+    <string name="desc_fourth">Anda puas, kami pun senang :) </string>
+</resources>
